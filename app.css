@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+
+#main-header {
+    background-image: url(./img/pattern.png);
+    background-color: #9cd6f4;
+    background-size: 250px;
+    height: 100px;
+    line-height: 100px;
+}
+
+#logo {
+    width: 200px;
+    vertical-align: middle;
+}
