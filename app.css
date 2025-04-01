@@ -16,12 +16,12 @@ figure {
     background-size: 450px;
     height: 110px;
     line-height: 100px;
+    padding-left: 185px;
 }
 
 #logo {
     width: 200px;
     vertical-align: middle;
-    padding-left: 125px;
 }
 
 h1 {
